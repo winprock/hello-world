@@ -1,4 +1,4 @@
 # hello-world
-learn how to use GitHub
+learn how using GitHub
 
 I'm learning how to use GitHub.
